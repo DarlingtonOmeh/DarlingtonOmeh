@@ -36,7 +36,7 @@ $100,000, often with little or no starting capital.
 
 My approach is simple:
 
-**Identify a problem → Build → Launch → Validate → Improve → Scale**
+**Identify a problem * Build * Launch * Validate * Improve * Scale**
 
 ## Current Focus
 
