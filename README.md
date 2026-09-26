@@ -1,6 +1,6 @@
 # Darlington Omeh
 
-**Founder • AI Educator • Business Coach • Author**
+**Founder • Entrepreneur • Business Coach • Author**
 
 I build digital products and businesses from the ground up, with a focus on
 technology, AI, digital commerce, entrepreneurship, and scalable platforms.
